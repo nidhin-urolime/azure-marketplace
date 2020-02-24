@@ -55,7 +55,7 @@ we'll walk through.
 The first step involves setting up the details for the username and authentication
 mechanism you'll use to access the virtual machines deployed by the solution:
 
-image:images/marketplace_step1.png[]
+image:images/marketplace_step1.png[]bnjbnj
 
 The username must be a valid Ubuntu username and for authentication mechanism,
 choose between password or {sshkey}[SSH key]. When choosing SSH key, password
